@@ -4,10 +4,10 @@
 
 - <b> Practicing Data Visualisation in Tableau </b>
   - [UFO Data 1998-2014](https://public.tableau.com/app/profile/ajin.paija/viz/UnitedStatesUFOdata/Dashboard1)
-- <b>title</b>
   - [project](link)
-- <b>1</b>
   - [project)](link)
+- <b>SQL Projects</b>
+- <b>R Studios</b>
 
 <h2> 📄 Certifications </h2>
 
