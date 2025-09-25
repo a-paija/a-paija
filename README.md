@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 - <b> Practicing Data Visualisation in Tableau </b>
-  - [UFO Data 1998-2014](https://public.tableau.com/app/profile/ajin.paija/viz/UnitedStatesUFOdata/Dashboard1)
+  - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
   - [project](link)
   - [project](link)
 - <b>SQL Projects</b>
