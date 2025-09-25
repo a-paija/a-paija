@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
+- <b>SQL Projects</b>
 - <b> Practicing Data Visualisation in Tableau </b>
   - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
-  - [project](link)
-  - [project](link)
-- <b>SQL Projects</b>
 - <b>R Studios</b>
+  - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
 
 <h2> 📄 Certifications </h2>
 
