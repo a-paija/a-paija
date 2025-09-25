@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ajin!</h1>
+<h1>Hi, I'm Ajin!🐈‍⬛ </h1>
 
 A recent Business Analytics graduate with a Minor in Economics from Seattle University! I aim to combine analytical expertise with economic insight to address complex business challenges.
 <h2>👨‍💻 Business Analytics Projects:</h2>
