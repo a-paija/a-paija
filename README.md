@@ -14,7 +14,11 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
 
 - <b> [Microsoft SQL Foundations](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b> 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Get in Touch:</h2>
+
+💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ajinpaija/)
+
+✉️ For inquires, drop me an email at paija.ajin@outlook.com
 
 [<img align="left" alt="AjinPaija | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AjinPaija | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][tableau]
