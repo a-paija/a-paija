@@ -1,7 +1,6 @@
 <h1>Hi, I'm Ajin!</h1>
 
-<h2>Introduction</h2>
-Hello World!
+<h2>Hellow World!</h2>
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
