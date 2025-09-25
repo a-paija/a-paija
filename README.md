@@ -1,7 +1,6 @@
 <h1>Hi, I'm Ajin!</h1>
 
-Hello, I am a recent Seattle University Graduate
-
+I'm a recent Business Analytics graduate with a Minor in Economics from Seattle University! I am to combine analytical expertise with economic insight to address complex business challenges. Skilled in SQL, Tableau, Excel, and R, with experience in data analysis, reporting, and process improvement.
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 - <b>SQL Projects</b>
