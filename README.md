@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ajin!</h1>
 
-Hello World!
+Hello, I am a recent Seattle University Graduate
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
