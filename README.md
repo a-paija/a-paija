@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ajin!🐈‍⬛ </h1>
+<h1>Hi, I'm Ajin! 🐈‍⬛</h1>
 
 A recent Business Analytics graduate with a Minor in Economics from Seattle University! I aim to combine analytical expertise with economic insight to address complex business challenges.
 <h2>👨‍💻 Business Analytics Projects:</h2>
@@ -16,5 +16,9 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AjinPaija | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AjinPaija | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][tableau]
+[<img align="left" alt="AjinPaija | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 
 [linkedin]: https://www.linkedin.com/in/ajinpaija/
+[tableau]: https://public.tableau.com/app/profile/ajin.paija/vizzes
+[github]: https://github.com/a-paija
