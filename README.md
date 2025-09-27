@@ -9,6 +9,7 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
   - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
 - <b>R Studios</b>
   - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
+  - G[oogle Trends on College Scorecard](https://github.com/a-paija/College-Score-Card-Release)
 
 <h2> 📄 Certifications </h2>
 
