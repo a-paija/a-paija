@@ -5,6 +5,7 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 - <b>SQL Projects</b>
+  - [Hospital Patient Records](https://github.com/a-paija/Hospital-Patient-Records/tree/main)
 - <b>Tableau Data Visualisation</b>
   - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
 - <b>R Studios</b>
