@@ -14,7 +14,8 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
 
 <h2> 📄 Certifications </h2>
 
-- <b> [Microsoft SQL Foundations](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b> 
+- <b> [Microsoft SQL Foundations](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b>
+- <b> [Microsoft Generative AI for Data Analysis](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b>
 
 <h2> 🤳 Get in Touch:</h2>
 
