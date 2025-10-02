@@ -9,7 +9,7 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
 - <b>Tableau Data Visualisation</b>
   - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
 - <b>Excel Projects</b>
-  -Coffee Shop Sales Dashboard
+  - Coffee Shop Sales Dashboard
 - <b>R Studios</b>
   - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
   - [Google Trends on College Scorecard](https://github.com/a-paija/College-Score-Card-Release)
