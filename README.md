@@ -8,6 +8,8 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
   - [Hospital Patient Records](https://github.com/a-paija/Hospital-Patient-Records/tree/main)
 - <b>Tableau Data Visualisation</b>
   - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
+- <b>Excel Projects</b>
+  -Coffee Shop Sales Dashboard
 - <b>R Studios</b>
   - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
   - [Google Trends on College Scorecard](https://github.com/a-paija/College-Score-Card-Release)
