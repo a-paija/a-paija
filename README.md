@@ -2,7 +2,7 @@
 
 A recent Business Analytics graduate with a Minor in Economics from Seattle University! I aim to combine analytical expertise with economic insight to address complex business challenges. Skilled in SQL, Tableau, Excel, and R, with experience in data analysis, reporting, and process improvement.
 
-<h2>👨‍💻 Analytics Projects:</h2>
+<h2>👨‍💻 Business Analytics Projects:</h2>
 
 - <b>SQL Projects</b>
   - [Hospital Patient Records & Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main)
