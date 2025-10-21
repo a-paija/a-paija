@@ -11,8 +11,8 @@ A recent Business Analytics graduate with a Minor in Economics from Seattle Univ
 - <b>Excel Projects</b>
   - [Coffee Shop Sales Dashboard & Analysis](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file)
 - <b>R Studio</b>
-  - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
   - [Google Trends on College Scorecard Analysis](https://github.com/a-paija/College-Score-Card-Release)
+  - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
 
 <h2> 📄 Certifications </h2>
 
