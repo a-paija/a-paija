@@ -4,6 +4,8 @@ A Business Analytics graduate with a Minor in Economics from Seattle University!
 
 <h2>👨‍💻 Business and Data Analytics Projects:</h2>
 
+- <b>Python Projects</b>
+  - Bank Customer Churn Analysis
 - <b>SQL Projects</b>
   - [Hospital Patient Records & Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main)
 - <b>Tableau Data Visualisation</b>
