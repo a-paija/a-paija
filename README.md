@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ajin! 🐈‍⬛</h1>
 
-A Business Analytics graduate with a Minor in Economics from Seattle University! I aim to combine analytical expertise with economic insight to address complex business challenges. Skilled in SQL, Tableau, Excel, Python, and R, with experience in data analysis, reporting, and process improvement.
+#### A Business Analytics graduate with a Minor in Economics from Seattle University! I aim to combine analytical expertise with economic insight to address complex business challenges. Skilled in SQL, Tableau, Excel, Python, and R, with experience in data analysis, reporting, and process improvement.
 
 <h2>👨‍💻 Business and Data Analytics Projects:</h2>
 
