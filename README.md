@@ -8,7 +8,7 @@ A Business Analytics graduate with a Minor in Economics from Seattle University!
   - [Bank Customer Churn Analysis](https://github.com/a-paija/Why-Customers-Leave-MavenBank-A-Business-Analytics-Case-Study)
 - <b>Tableau Data Visualisation</b>
   - [Bank Customer Churn Visualization](https://github.com/a-paija/Bank-Customer-Churn-Visualization)
-  - [UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard)
+  - 
 - <b>SQL Projects</b>
   - [Hospital Patient Records Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main)
 - <b>Excel Projects</b>
