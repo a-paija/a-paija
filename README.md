@@ -1,28 +1,34 @@
-<h1>Hi, I'm Ajin! 🐈‍⬛</h1>
+# Hi, I'm Ajin! 🐈‍⬛
 
-A Business Analytics graduate with a Minor in Economics from Seattle University! I aim to combine analytical expertise with economic insight to address complex business challenges. Skilled in SQL, Tableau, Excel, Python, and R, with experience in data analysis, reporting, and process improvement.
+Data-focused Business Analytics professional with experience in analytical modeling, dashboard development, and performance analysis. Skilled in SQL, Python, R, Tableau, and Excel, with a focus on translating data into scalable insights that inform business strategy and improve outcomes.
 
-<h2>👨‍💻 Business and Data Analytics Projects:</h2>
+## 👨‍💻 Business and Data Analytics Projects:</h2>
 
-- <b>Python Projects</b>
-  - [Bank Customer Churn Analysis](https://github.com/a-paija/Why-Customers-Leave-MavenBank-A-Business-Analytics-Case-Study)
-- <b>Tableau Data Visualisation</b>
-  - [Bank Customer Churn Visualization](https://github.com/a-paija/Bank-Customer-Churn-Visualization)
-  - 
-- <b>SQL Projects</b>
-  - [Hospital Patient Records Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main)
-- <b>Excel Projects</b>
-  - [Coffee Shop Sales Dashboard & Analysis](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file)
-- <b>R Studio</b>
-  - [Google Trends on College Scorecard Analysis](https://github.com/a-paija/College-Score-Card-Release)
-  - [COVID-19 Retail Employment](https://github.com/a-paija/Covid-19-Retail-Employment)
+- **[CRM Sales Pipeline Analysis](https://github.com/a-paija/CRM-Sales-Pipeline-Analysis) | SQL • Tableau • Excel**
+  - End-to-end analysis of a B2B sales pipeline to identify revenue leakage, conversion inefficiencies, and pipeline bottlenecks.
 
-<h2> 📄 Certifications </h2>
+- **[Bank Customer Churn Analysis](https://github.com/a-paija/Bank-Customer-Churn-Analysis/tree/main) | Python • Tableau**
+  - Predictive and exploratory analysis to understand customer attrition and key churn drivers.
+
+- **[Coffee Shop Sales Performance](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file) | Excel • Tableau**
+  - Sales and revenue analysis focused on trends, product performance, and operational insights.
+
+- **[Hospital Patient Records Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main) | SQL**
+  - Exploratory and diagnostic analysis of healthcare data to uncover trends and inefficiencies.
+
+- **[COVID-19 Retail Employment Analysis](https://github.com/a-paija/Covid-19-Retail-Employment) |R Studios**
+  - Time-series and regression analysis examining the impact of COVID-19 on retail employment.
+
+- **[College Scorecard Trends](https://github.com/a-paija/College-Score-Card-Release) |R Studios**
+  - Analysis of education and economic trends using Google Trends and public datasets.
+
+
+## 📄 Certifications
 
 - <b> [Microsoft SQL Foundations](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b>
 - <b> [Microsoft Generative AI for Data Analysis](https://www.coursera.org/account/accomplishments/verify/DUVRVI2A5V51)</b>
 
-<h2> 🤳 Get in Touch:</h2>
+## 🤳 Get in Touch:
 
 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ajinpaija/)
 
