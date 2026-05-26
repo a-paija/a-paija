@@ -1,6 +1,6 @@
 # Hi, I'm Ajin! 🐈‍⬛
 
-Data-focused Business Analytics professional with experience in analytical modeling, dashboard development, and performance analysis. Skilled in SQL, Python, R, Tableau, and Excel, with a focus on translating data into scalable insights that inform business strategy and improve outcomes.
+Data-focused Business Analytics professional with experience in analytical modeling, dashboard development, and performance analysis. Skilled in SQL, Python, R, Tableau, and Excel, with a focus on translating data into scalable insights that inform business strategy and improve outcomes. Actively learning new tools and languages!
 
 ## 🧑‍💻 Business and Data Analytics Projects:
 
