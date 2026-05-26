@@ -11,7 +11,7 @@ Data-focused Business Analytics professional with experience in analytical model
   - Predictive and exploratory analysis to identify at-risk customers and enable proactive churn prevention.
 
 - **[Coffee Shop Sales Performance](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file) | Excel • Tableau** |
-  - Sales and revenue analysis focused on trends, product performance, and operational insights.
+  - Multi-location coffee retailer, identifying demand patterns, optimizing staffing, and improving product mix efficiency.
 
 - **[Hospital Patient Records Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main) | SQL** |
   - Exploratory and diagnostic analysis of healthcare data to uncover trends and inefficiencies.
