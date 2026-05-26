@@ -5,10 +5,10 @@ Data-focused Business Analytics professional with experience in analytical model
 ## 🧑‍💻 Business and Data Analytics Projects:
 
 - **[CRM Sales Pipeline Analysis](https://github.com/a-paija/CRM-Sales-Pipeline-Analysis) | SQL • Tableau • Excel** |
-  - End-to-end analysis of a B2B sales pipeline to identify revenue leakage, conversion inefficiencies, and pipeline bottlenecks.
+  - Exploratory and performance analysis to identify revenue leakage, conversion gaps, and pipeline bottlenecks.
 
 - **[Bank Customer Churn Analysis](https://github.com/a-paija/Bank-Customer-Churn-Analysis/tree/main) | Python • Tableau** |
-  - Predictive and exploratory analysis to understand customer attrition and key churn drivers.
+  - Predictive and exploratory analysis to identify at-risk customers and enable proactive churn prevention.
 
 - **[Coffee Shop Sales Performance](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file) | Excel • Tableau** |
   - Sales and revenue analysis focused on trends, product performance, and operational insights.
