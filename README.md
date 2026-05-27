@@ -19,9 +19,6 @@ Data-focused Business Analytics professional specializing in predictive modeling
 - **[COVID-19 Retail Employment Analysis](https://github.com/a-paija/Covid-19-Retail-Employment) | R Studios** |
   - Conducted time-series and regression analysis to quantify the impact of COVID-19 on retail employment trends and workforce shifts.
 
-- **[College Scorecard Trends](https://github.com/a-paija/College-Score-Card-Release) | R Studios** |
-  - Explored education and economic trends using public datasets to uncover relationships between institutional factors and student outcomes.
-
 
 ## 📄 Certifications
 
