@@ -25,8 +25,8 @@ Data-focused Business Analytics professional with experience in analytical model
 
 ## 📄 Certifications
 
-- <b> [Microsoft SQL Foundations](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b>
 - <b> [Microsoft Generative AI for Data Analysis](https://www.coursera.org/account/accomplishments/verify/DUVRVI2A5V51)</b>
+- <b> [Microsoft SQL Foundations](https://www.coursera.org/account/accomplishments/verify/XZOB9VEGCK3B)</b>
 
 ## 🤳 Get in Touch:
 
