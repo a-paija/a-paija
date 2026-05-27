@@ -2,7 +2,7 @@
 
 Data-focused Business Analytics professional specializing in predictive modeling, performance analysis, and data visualization. Experienced in SQL, Python, R, Tableau, and Excel, with a track record of translating complex datasets into actionable insights that drive business decisions.
 
-### 🧑‍💻 Business and Data Analytics Projects:
+## 🧑‍💻 Business and Data Analytics Projects:
 
 - **[CRM Sales Pipeline Analysis](https://github.com/a-paija/CRM-Sales-Pipeline-Analysis) | SQL • Tableau • Excel** |
   - Identified revenue leakage and conversion inefficiencies across pipeline stages, uncovering key drop-off points and enabling targeted improvements in sales performance.
