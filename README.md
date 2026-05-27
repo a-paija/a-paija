@@ -1,26 +1,26 @@
 # Hi, I'm Ajin! 🐈‍⬛
 
-Data-focused Business Analytics professional with experience in analytical modeling, dashboard development, and performance analysis. Skilled in SQL, Python, R, Tableau, and Excel, with a focus on translating data into scalable insights that inform business strategy and improve outcomes. Actively learning new tools and languages!
+Data-focused Business Analytics professional specializing in predictive modeling, performance analysis, and data visualization. Experienced in SQL, Python, R, Tableau, and Excel, with a track record of translating complex datasets into actionable insights that drive business decisions.
 
 ## 🧑‍💻 Business and Data Analytics Projects:
 
 - **[CRM Sales Pipeline Analysis](https://github.com/a-paija/CRM-Sales-Pipeline-Analysis) | SQL • Tableau • Excel** |
-  - Exploratory and performance analysis to identify revenue leakage, conversion gaps, and pipeline bottlenecks.
+  - Identified revenue leakage and conversion inefficiencies across pipeline stages, uncovering key drop-off points and enabling targeted improvements in sales performance.
 
 - **[Bank Customer Churn Analysis](https://github.com/a-paija/Bank-Customer-Churn-Analysis/tree/main) | Python • Tableau** |
-  - Predictive and exploratory analysis to identify at-risk customers and enable proactive churn prevention.
+  - Built predictive models to identify high-risk customers and uncover key churn drivers, enabling proactive retention strategies.
 
 - **[Coffee Shop Sales Performance](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file) | Excel • Tableau** |
-  - Multi-location coffee retailer, identifying demand patterns, optimizing staffing, and improving product mix efficiency.
-
+  - Analyzed multi-location sales data to uncover demand patterns, optimize staffing allocation, and improve product mix efficiency.
+  
 - **[Hospital Patient Records Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main) | SQL** |
-  - Exploratory and diagnostic analysis of healthcare data to uncover trends and inefficiencies.
+  - Analyzed patient records to identify operational inefficiencies, high-risk segments, and trends impacting healthcare delivery.
 
 - **[COVID-19 Retail Employment Analysis](https://github.com/a-paija/Covid-19-Retail-Employment) | R Studios** |
-  - Time-series and regression analysis examining the impact of COVID-19 on retail employment.
+  - Conducted time-series and regression analysis to quantify the impact of COVID-19 on retail employment trends and workforce shifts.
 
 - **[College Scorecard Trends](https://github.com/a-paija/College-Score-Card-Release) | R Studios** |
-  - Analysis of education and economic trends using Google Trends and public datasets.
+  - Explored education and economic trends using public datasets to uncover relationships between institutional factors and student outcomes.
 
 
 ## 📄 Certifications
