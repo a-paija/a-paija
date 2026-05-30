@@ -4,19 +4,19 @@ Data-focused Business Analytics professional specializing in predictive modeling
 
 ## 🧑‍💻 Business and Data Analytics Projects:
 
-- **[CRM Sales Pipeline Analysis](https://github.com/a-paija/CRM-Sales-Pipeline-Analysis) | SQL • Tableau • Excel** |
+- **[CRM Sales Pipeline Optimization](https://github.com/a-paija/CRM-Sales-Pipeline-Analysis) | SQL • Tableau • Excel** |
   - Identified revenue leakage and conversion inefficiencies across pipeline stages, uncovering key drop-off points and enabling targeted improvements in sales performance.
 
-- **[Bank Customer Churn Analysis](https://github.com/a-paija/Bank-Customer-Churn-Analysis/tree/main) | Python • Tableau** |
+- **[Customer Churn Prediction & Retention Strategy](https://github.com/a-paija/Bank-Customer-Churn-Analysis/tree/main) | Python • Tableau** |
   - Built predictive models to identify high-risk customers and uncover key churn drivers, enabling proactive retention strategies.
 
-- **[Coffee Shop Sales Performance](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file) | Excel • Tableau** |
+- **[Sales & Demand Optimization](https://github.com/a-paija/Coffee-Shop-Sales/tree/main?tab=readme-ov-file) | Excel • Tableau** |
   - Analyzed multi-location sales data to uncover demand patterns, optimize staffing allocation, and improve product mix efficiency.
   
-- **[Hospital Patient Records Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main) | SQL** |
+- **[Patient Outcomes & Operational Efficiency Analysis](https://github.com/a-paija/Hospital-Patient-Records/tree/main) | SQL** |
   - Analyzed patient records to identify operational inefficiencies, high-risk segments, and trends impacting healthcare delivery.
 
-- **[COVID-19 Retail Employment Analysis](https://github.com/a-paija/Covid-19-Retail-Employment) | R Studios** |
+- **[Economic Impact Analysis of COVID-19 on Retail Workforce](https://github.com/a-paija/Covid-19-Retail-Employment) | R Studios** |
   - Conducted time-series and regression analysis to quantify the impact of COVID-19 on retail employment trends and workforce shifts.
 
 
